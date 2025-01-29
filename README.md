@@ -6,7 +6,7 @@ A fun and interactive **Rock, Paper, Scissors** game built using **HTML**, **CSS
 
 ## 🖥️ Demo
 
-Check out the live demo: [Rock Paper Scissors Game](#)
+Check out the live demo: [Rock Paper Scissors Game](https://rock-paper-scissors-ochre-iota.vercel.app/)
 
 ---
 
