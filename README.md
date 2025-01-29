@@ -66,10 +66,13 @@ project-folder/
 ## ✨ Screenshots
 
 ### Desktop View
-![Desktop Screenshot](#)
+![desk1](https://github.com/user-attachments/assets/32a6f7a4-9a6e-4711-af72-70be0cc648c5)
+![desk2](https://github.com/user-attachments/assets/6428e3d6-4323-475a-aae9-eab859d77ecb)
+![desk3](https://github.com/user-attachments/assets/ef6de3a9-7255-4dcf-9a85-0c1ea924d21f)
+
 
 ### Mobile View
-![Mobile Screenshot](#)
+![mob](https://github.com/user-attachments/assets/dc0dfd45-721e-4913-b076-d651cdf2e0f1)
 
 ---
 
